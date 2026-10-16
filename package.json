@@ -1,0 +1,13 @@
+{
+  "name": "url-pinger-cron",
+  "version": "1.0.0",
+  "description": "Calls multiple URLs from env on a schedule (Render Cron Job)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
